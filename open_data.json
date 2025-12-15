@@ -12,5 +12,15 @@
                 "source": "Open Data (TWT)"
             }
         ]
+    },
+    "Ghee": {
+        "expired": [
+            {
+                "name": "SRS Ghee Narunei",
+                "link": "https://foodsafety.kerala.gov.in/wp-content/uploads/2022/09/prohibition-order-of-ghee.pdf"
+            }
+        ],
+        "pass": [],
+        "fail": []
     }
 }
