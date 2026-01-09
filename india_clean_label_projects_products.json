@@ -1,0 +1,58 @@
+{
+  "ingredients" : {
+    "expired" : [ {
+      "name" : "Plant Based Collagen Builder",
+      "link" : "https://www.oziva.in/products/plant-based-collagen?_pos=1&_psq=Collagen%20buil&_ss=e&_v=1.0"
+    }, {
+      "name" : "TurmXTRA 60 N Water Dispersible Turmeric Extract Powder 60N",
+      "link" : "https://www.nutriventia.com/product/turmxtra-curcuminoid-extract"
+    }, {
+      "name" : "Prolanza Ashwagandha Root Extract Granules SR",
+      "link" : "https://www.nutriventia.com/product/prolanza"
+    }, {
+      "name" : "Organic Plant Protein",
+      "link" : "https://www.oziva.in/products/oziva-organic-plant-protein-for-everyday-fitness-lactose-free-cholesterol-free-soy-free-sugar-free?_pos=1&_psq=Organic%20Plant%20pr&_ss=e&_v=1.0"
+    }, {
+      "name" : "Superfood Plant Protein",
+      "link" : "https://www.oziva.in/products/oziva-superfood-plant-protein-finest-vegan-clean-protein-powder-with-plant-protein-ayurvedic-herbs-multivitamins-for-everyday-fitness?_pos=1&_psq=Superfood%20Plant%20pro&_ss=e&_v=1.0"
+    } ],
+    "pass" : [ ]
+  },
+  "health & fitness" : {
+    "expired" : [ {
+      "name" : "HK Vitals Fish Oil 1000 mg Capsules (Maxcure Nutravedics Ltd)",
+      "link" : "https://www.hkvitals.com/sv/hk-vitals-fish-oil-1000mg-with-180mg-epa-and-120mg-dha/"
+    }, {
+      "name" : "ACGcaps TSafe",
+      "link" : "https://www.acg-world.com/capsules/hpmc-capsules/acgcapstm-hr"
+    }, {
+      "name" : "Pure Himalayan Shilajit Gummies, 75% 60ct",
+      "link" : "https://rootlabs.co/products/shilajit-gummies-60s"
+    }, {
+      "name" : "Grantria – Punica Granatum Extract",
+      "link" : "https://www.zeushygia.com/grantria/"
+    }, {
+      "name" : "Apple Cider Effervescent Tablet",
+      "link" : "https://www.plixlife.com/collection/all-products/91/"
+    }, {
+      "name" : "ACGCAPS™ H+",
+      "link" : "https://www.acg-world.com/capsules/hpmc-capsules/acgcapstm-h"
+    }, {
+      "name" : "Vegan Collagen Pro Unflavored",
+      "link" : "https://us.wellbeingnutrition.com/collections/pure-collagen-peptides"
+    }, {
+      "name" : "Pure Himalayan Shilajit Gummies, 75% 120ct",
+      "link" : "https://rootlabs.co/products/root-labs-shilajit-gummies"
+    }, {
+      "name" : "Superfood Plant Protein – Italian Café Mocha",
+      "link" : "https://us.wellbeingnutrition.com/collections/protein-powders?filter.p.m.custom.product_tags=Vegan"
+    }, {
+      "name" : "Whey Protein Powder",
+      "link" : "https://nutrabox.in/collections/buy-whey-protein-powder-online/products/flavoured-whey-protein-with-dha-mct?variant=37153936015534"
+    }, {
+      "name" : "True Vitamin Tablets",
+      "link" : "https://neuherbs.com/products/true-vitamin-tablets-antioxidants-blend-wellness?variant=40975804891306"
+    } ],
+    "pass" : [ ]
+  }
+}
