@@ -1,58 +1,74 @@
 {
   "ingredients" : {
-    "expired" : [ {
+    "expired" : [ ],
+    "pass" : [ {
       "name" : "Plant Based Collagen Builder",
-      "link" : "https://www.oziva.in/products/plant-based-collagen?_pos=1&_psq=Collagen%20buil&_ss=e&_v=1.0"
+      "link" : "https://www.oziva.in/products/plant-based-collagen?_pos=1&_psq=Collagen%20buil&_ss=e&_v=1.0",
+      "issueDate" : "2025-01-28"
     }, {
       "name" : "TurmXTRA 60 N Water Dispersible Turmeric Extract Powder 60N",
-      "link" : "https://www.nutriventia.com/product/turmxtra-curcuminoid-extract"
+      "link" : "https://www.nutriventia.com/product/turmxtra-curcuminoid-extract",
+      "issueDate" : "2025-03-25"
     }, {
       "name" : "Prolanza Ashwagandha Root Extract Granules SR",
-      "link" : "https://www.nutriventia.com/product/prolanza"
+      "link" : "https://www.nutriventia.com/product/prolanza",
+      "issueDate" : "2025-03-25"
     }, {
       "name" : "Organic Plant Protein",
-      "link" : "https://www.oziva.in/products/oziva-organic-plant-protein-for-everyday-fitness-lactose-free-cholesterol-free-soy-free-sugar-free?_pos=1&_psq=Organic%20Plant%20pr&_ss=e&_v=1.0"
+      "link" : "https://www.oziva.in/products/oziva-organic-plant-protein-for-everyday-fitness-lactose-free-cholesterol-free-soy-free-sugar-free?_pos=1&_psq=Organic%20Plant%20pr&_ss=e&_v=1.0",
+      "issueDate" : "2025-01-28"
     }, {
       "name" : "Superfood Plant Protein",
-      "link" : "https://www.oziva.in/products/oziva-superfood-plant-protein-finest-vegan-clean-protein-powder-with-plant-protein-ayurvedic-herbs-multivitamins-for-everyday-fitness?_pos=1&_psq=Superfood%20Plant%20pro&_ss=e&_v=1.0"
-    } ],
-    "pass" : [ ]
+      "link" : "https://www.oziva.in/products/oziva-superfood-plant-protein-finest-vegan-clean-protein-powder-with-plant-protein-ayurvedic-herbs-multivitamins-for-everyday-fitness?_pos=1&_psq=Superfood%20Plant%20pro&_ss=e&_v=1.0",
+      "issueDate" : "2025-01-28"
+    } ]
   },
   "health & fitness" : {
     "expired" : [ {
       "name" : "HK Vitals Fish Oil 1000 mg Capsules (Maxcure Nutravedics Ltd)",
-      "link" : "https://www.hkvitals.com/sv/hk-vitals-fish-oil-1000mg-with-180mg-epa-and-120mg-dha/"
-    }, {
-      "name" : "ACGcaps TSafe",
-      "link" : "https://www.acg-world.com/capsules/hpmc-capsules/acgcapstm-hr"
+      "link" : "https://www.hkvitals.com/sv/hk-vitals-fish-oil-1000mg-with-180mg-epa-and-120mg-dha/",
+      "issueDate" : "2023-12-12"
     }, {
       "name" : "Pure Himalayan Shilajit Gummies, 75% 60ct",
-      "link" : "https://rootlabs.co/products/shilajit-gummies-60s"
-    }, {
-      "name" : "Grantria – Punica Granatum Extract",
-      "link" : "https://www.zeushygia.com/grantria/"
+      "link" : "https://rootlabs.co/products/shilajit-gummies-60s",
+      "issueDate" : "2024-12-18"
     }, {
       "name" : "Apple Cider Effervescent Tablet",
-      "link" : "https://www.plixlife.com/collection/all-products/91/"
-    }, {
-      "name" : "ACGCAPS™ H+",
-      "link" : "https://www.acg-world.com/capsules/hpmc-capsules/acgcapstm-h"
+      "link" : "https://www.plixlife.com/collection/all-products/91/",
+      "issueDate" : "2025-01-08"
     }, {
       "name" : "Vegan Collagen Pro Unflavored",
-      "link" : "https://us.wellbeingnutrition.com/collections/pure-collagen-peptides"
+      "link" : "https://us.wellbeingnutrition.com/collections/pure-collagen-peptides",
+      "issueDate" : "2024-12-17"
     }, {
       "name" : "Pure Himalayan Shilajit Gummies, 75% 120ct",
-      "link" : "https://rootlabs.co/products/root-labs-shilajit-gummies"
+      "link" : "https://rootlabs.co/products/root-labs-shilajit-gummies",
+      "issueDate" : "2024-12-18"
     }, {
       "name" : "Superfood Plant Protein – Italian Café Mocha",
-      "link" : "https://us.wellbeingnutrition.com/collections/protein-powders?filter.p.m.custom.product_tags=Vegan"
+      "link" : "https://us.wellbeingnutrition.com/collections/protein-powders?filter.p.m.custom.product_tags=Vegan",
+      "issueDate" : "2024-12-17"
+    } ],
+    "pass" : [ {
+      "name" : "ACGcaps TSafe",
+      "link" : "https://www.acg-world.com/capsules/hpmc-capsules/acgcapstm-hr",
+      "issueDate" : "2025-08-05"
+    }, {
+      "name" : "Grantria – Punica Granatum Extract",
+      "link" : "https://www.zeushygia.com/grantria/",
+      "issueDate" : "2025-01-16"
+    }, {
+      "name" : "ACGCAPS™ H+",
+      "link" : "https://www.acg-world.com/capsules/hpmc-capsules/acgcapstm-h",
+      "issueDate" : "2025-08-05"
     }, {
       "name" : "Whey Protein Powder",
-      "link" : "https://nutrabox.in/collections/buy-whey-protein-powder-online/products/flavoured-whey-protein-with-dha-mct?variant=37153936015534"
+      "link" : "https://nutrabox.in/collections/buy-whey-protein-powder-online/products/flavoured-whey-protein-with-dha-mct?variant=37153936015534",
+      "issueDate" : "2025-03-25"
     }, {
       "name" : "True Vitamin Tablets",
-      "link" : "https://neuherbs.com/products/true-vitamin-tablets-antioxidants-blend-wellness?variant=40975804891306"
-    } ],
-    "pass" : [ ]
+      "link" : "https://neuherbs.com/products/true-vitamin-tablets-antioxidants-blend-wellness?variant=40975804891306",
+      "issueDate" : "2025-01-13"
+    } ]
   }
 }
